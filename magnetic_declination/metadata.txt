@@ -2,13 +2,13 @@
 name=Rosa dos Ventos Geomagnética (Magnetic Declination)
 qgisMinimumVersion=3.0
 qgisMaximumVersion=4.99
-description=Gera uma rosa dos ventos interativa que demonstra a declinação magnética do dia baseada no modelo WMM-2025. Exporta para SVG/PNG e adiciona como camada vetorial.
+description=Generates an interactive compass rose demonstrating the magnetic declination of the day based on the WMM-2025 model. Exports to SVG/PNG and adds it as a vector layer.
 version=1.0.0
 author=Alessandro Pimentel
 email=alessandro.pimentel@example.com
-about=Plugin Criado por Alessandro Pimentel - Tel: (91)98505-6742. Este plugin calcula a declinação magnética de qualquer local do globo para a data atual usando o World Magnetic Model (WMM-2025). Mostra uma rosa dos ventos estilizada e profissional em tempo real, permitindo a exportação para SVG/PNG e inserção da geometria como camada no mapa.
+about=Plugin created by Alessandro Pimentel - Phone: +55 (91) 98505-6742. This plugin calculates the magnetic declination of any location on the globe for the current date using the World Magnetic Model (WMM-2025). It displays a stylized and professional compass rose in real-time, allowing export to SVG/PNG and insertion of the geometry as a layer in the map.
 tracker=https://github.com/alessandropimentel/Rosa-dos-Ventos-Declina-o-Magn-tica-WMM-2025-/issues
 repository=https://github.com/alessandropimentel/Rosa-dos-Ventos-Declina-o-Magn-tica-WMM-2025-
 category=Plugins
-tags=rosa dos ventos, declinação magnética, wmm, geomagnetismo, norte magnético, svg
+tags=compass rose, magnetic declination, wmm, geomagnetism, magnetic north, svg
 icon=icon.png
