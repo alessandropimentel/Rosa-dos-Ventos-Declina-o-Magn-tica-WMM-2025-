@@ -9,6 +9,7 @@ email=alessandro.pimentel@example.com
 about=Plugin created by Alessandro Pimentel - Phone: +55 (91) 98505-6742. This plugin calculates the magnetic declination of any location on the globe for the current date using the World Magnetic Model (WMM-2025). It displays a stylized and professional compass rose in real-time, allowing export to SVG/PNG and insertion of the geometry as a layer in the map.
 tracker=https://github.com/alessandropimentel/Rosa-dos-Ventos-Declina-o-Magn-tica-WMM-2025-/issues
 repository=https://github.com/alessandropimentel/Rosa-dos-Ventos-Declina-o-Magn-tica-WMM-2025-
+homepage=https://github.com/alessandropimentel/Rosa-dos-Ventos-Declina-o-Magn-tica-WMM-2025-
 category=Plugins
 tags=compass rose, magnetic declination, wmm, geomagnetism, magnetic north, svg
 icon=icon.png
